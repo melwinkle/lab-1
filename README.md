@@ -1,6 +1,6 @@
 # Lab-1 Git Repository Seed
 
-This file is the template for the first lab in Ashesi Web Development 2020.
+This file is for the first lab in Ashesi Web Development 2020.
 
 ## Contents
 
