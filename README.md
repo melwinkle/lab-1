@@ -1,11 +1,11 @@
 # Lab-1 Git Repository Seed
 
-This file is for the first lab in Ashesi Web Development 2020.
-
+This is for the first lab in Ashesi Web Development 2020.
+https://melwinkle.github.io/lab-1/
 ## Contents
 
-This repository contains a single file, a script for gathering the basic configuration of the user from bash.
+This repository contains a six files, a script for gathering the basic configuration of the user from bash.
 
 ## Using the file
 
-Please refer to your lab instructions for definitive directions. In general, clone this repository to a new repository in your user space.
+This is a portfolo website of Aileen Akpalu
