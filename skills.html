@@ -2,7 +2,19 @@
     <head>
         <meta>
         <title>Skills</title>
-        <link rel="stylesheet" href="header.css">
+        <link rel="stylesheet" href="css\header.css">
+        <style>
+            .grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.grid > div {
+  border: 5px solid snow;
+}
+        </style>
     </head>
     <body style="background-color:snow;">
         <div class="header">
@@ -16,28 +28,29 @@
             <a  class="active" href="course.html">Course</a>
             <a  class="active" href="Work.html">Experience</a>
             <a  class="active" href="project.html">Projects</a>
-            <link rel="stylesheet" href="mainnav.css">
+            <link rel="stylesheet" href="css\mainnav.css">
             </div>
 
 
         <h1 style="font-family: Georgia, 'Times New Roman', Times, serif;">Skill Set</h1>
-            <ul style="font-size:larger; font-family:cursive">
-                    <li>Java</li>
-                    <li>Python</li>
-                    <li>C++</li>
-                    <li>Android Studio</li>
-                    <li>Web development</li>
-                    <li>MySql</li>
-                    <li>Microsoft Office Excel</li>
-                    <li>Microsoft Office Word</li>
-                    <li>Microsoft Office PowerPoint</li>
-            </ul>
+    <div class="grid">
+                    <div ><img src="images\java.png" alt="Java" style="width: 100px;"></div>
+                    <div> <img src="images\python.jpg" alt="Python"style="width: 200px;"></div>
+                    <div><img src="images\c.png" alt="C++"style="width: 100px;"></div>
+                    <div><img src="images\android.png" alt="Android Studio"style="width: 200px;"></div>
+                    <div><img src="images\webdev.png" alt="Web Development"style="width: 100px;"></div>
+                    <div><img src="images\sql.png" alt="MySql"style="width: 200px;"></div>
+                    <div><img src="images\excel.jpg" alt="MS Excel"style="width: 100px;"></div>
+                    <div><img src="images\word.jpg" alt="MS Word"style="width: 100px;"></div>
+                    <div><img src="images\powerpoint.jpg" alt="MS PowerPoint"style="width: 100px;"></div>
+                 
+                </div> 
 
     </body>
     <div class="footer">
         <footer>
             <p style="text-align: right; font-family: cursive;"> (c)Aileen Akpalu 2020</p>
-            <link rel="stylesheet" href="footer.css">
+            <link rel="stylesheet" href="css\footer.css">
         </footer>
     </div>
 </html>
