@@ -8,4 +8,4 @@ This repository contains a six files, a script for gathering the basic configura
 
 ## Using the file
 
-This is a portfolo website of Aileen Akpalu
+This is a portfolio website of Aileen Akpalu
